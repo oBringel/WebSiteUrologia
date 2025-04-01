@@ -1,0 +1,14 @@
+📌 Nota Técnica para os Desenvolvedores Futuros
+
+Projeto: WebSite Dr. Daniel Sucupira
+Autor: Áquila Leite Bringel
+Período de Desenvolvimento: 2025 (durante graduação em Análise e Desenvolvimento de Sistemas)
+
+Dependências Principais
+    React v18+
+    Vite v4+
+    Tailwindcss v4+
+
+ "Este projeto representa meu crescimento técnico durante a graduação. Foi desenvolvido com rigor acadêmico e atenção às boas práticas de desenvolvimento."
+
+[![GitHub](https://img.shields.io/badge/GitHub-Áquila_Bringel-181717?style=flat&logo=github)](https://github.com/oBringel)
