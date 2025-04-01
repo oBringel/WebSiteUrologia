@@ -4,7 +4,7 @@ import Main from './web/layout/Main'
 import About from './web/layout/About'
 import CardList from './web/layout/CardsList'
 import Iframe from './web/iframe/Iframe'
-import Messege from './web/layout/Messege'
+import Message from './web/layout/Message'
 import RodapeFister from './web/layout/RodapeFirst'
 import Experiencia from './web/layout/Experiencia'
 
@@ -18,7 +18,7 @@ const Home: React.FC = () => {
          <About />
          <Experiencia />
          <CardList />
-         <Messege />
+         <Message />
          <Iframe />
          <RodapeFister />
       </div>

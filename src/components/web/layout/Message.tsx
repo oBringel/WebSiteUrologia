@@ -67,7 +67,7 @@ const comentarios: Comentario[] = [
   },
 ];
 
-const Messege: React.FC = () => {
+const Message: React.FC = () => {
   const [expandido, setExpandido] = useState<Set<number>>(new Set());
 
   const toggleExpandir = (id: number) => {
@@ -148,4 +148,4 @@ const Messege: React.FC = () => {
 );
 };
 
-export default Messege;
+export default Message;
