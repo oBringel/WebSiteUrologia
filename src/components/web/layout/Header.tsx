@@ -8,7 +8,7 @@ const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const checkScreenSize = () => {
-    setIsMdScreen(window.matchMedia("(min-width: 640px)").matches);
+    setIsMdScreen(window.matchMedia("(min-width: 768px)").matches);
   };
   useEffect(() => {
     // Verifica o tamanho da tela ao carregar a página
@@ -61,7 +61,7 @@ const Header: React.FC = () => {
           </Link>
           <Link
             className="p-3 cursor-pointer hover:bg-sky-500 transition-all rounded-md hover:text-white md:text-xl lg:text-xl"
-            to={"Urolugista"}
+            to={"Urologista"}
           >
             Urologista{" "}
           </Link>
